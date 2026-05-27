@@ -49,21 +49,9 @@ I am interested in combining **creativity with technology** to develop engaging 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-**Technical Skills:**
-- C & C++ basics
-- Python
-- Java Programming
-- Basics of AI/ML — Decision Trees, Random Forests, Naïve Bayes, KNN
-- Basics of Database Concepts — SQL, MongoDB, Neo4j
-- MS Office / Presentation Skills
-- Problem Solving & Logical Thinking
-- Communication & Teamwork
-
-**Soft Skills:**
-- Creative Thinking
-- Problem Solving
-- Communication Skills
-- Team Collaboration
-- Time Management
+**Languages:** cooking..<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f609/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f609/512.gif" alt="😉" width="32" height="32">
+</picture>
 
 **Languages:** English, Tamil
