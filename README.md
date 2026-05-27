@@ -49,10 +49,11 @@ I am interested in combining **creativity with technology** to develop engaging 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-<picture>
-  **Projects:** cooking..
+**Projects:** cooking..<span><picture>
+  
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f609/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f609/512.gif" alt="😉" width="32" height="32">
-</picture>
+</picture></span>
+
 
 **Languages:** English, Tamil
